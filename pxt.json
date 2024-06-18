@@ -1,10 +1,11 @@
 {
-    "name": "BMP280",
-    "version": "1.1.0",
-    "description": "makecode BMP280 Digital Pressure Sensor Package for micro:bit",
+    "name": "DS Extension Microbit",
+    "version": "1.0.0",
+    "description": "Extension for DS microbit hackaton",
     "license": "MIT",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "BMP280": "github:makecode-extensions/bmp280#v1.1.0"
     },
     "files": [
         "README.md",

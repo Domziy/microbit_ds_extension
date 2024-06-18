@@ -1,7 +1,5 @@
 /**
- * Dtest BMP280 digital pressure sensor Package.
- * From microbit/micropython Chinese community.
- * http://www.micropython.org.cn
+ *  DS main.ts for sensors
  */
 
 enum BMP280_I2C_ADDRESS {
