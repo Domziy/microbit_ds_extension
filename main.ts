@@ -1,5 +1,5 @@
 /**
- * makecode BMP280 digital pressure sensor Package.
+ * Dtest BMP280 digital pressure sensor Package.
  * From microbit/micropython Chinese community.
  * http://www.micropython.org.cn
  */
